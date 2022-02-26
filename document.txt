@@ -1,0 +1,67 @@
+Web Development =  website + Development
+
+Frontend Developer 
+    1. HTML 
+    2. CSS
+    3. Bootstrap
+    4. Javascript
+    5. React
+
+Backend Developer ( Database + server )
+    1. Node.js
+    2. Express.js
+    3. MongoDB 
+
+Full Stack Web Developer = Front + backend
+
+Projects 
+(HTML + CSS + Bootstrap) -- Bootstrap is the framework for CSS  ( 20-25 days )
+    1. Gaming website ( responsive website )
+    2. Zomato website 
+    3. Personal Project 
+
+( Javascript - Programming Language )  ( 1 Month )
+    1. API 
+    2. stock Application
+    3. drum kit 
+    4. accordation
+    5. calc
+    6. popup
+    7. light mode dark mode
+    8. dynamic dropdown
+
+API -- Application Programming interface
+
+
+( Node.js + Express.js + mongoDB )
+1. Blogging website
+
+(React )
+1. Zomato website
+2. Personal Project
+
+
+1. Course Completion certificate -- NO 
+2. Internship certificate -- 
+3. Super Intern certificate -- Personal Project
+
+
+Fees : 12,000 
+Duration : 3 Month
+projects : 4 Major Projects ( 3 + 1 )
+
+1st : 4000
+2nd : 4000
+3rd : 4000
+
+
+
+
+26/02/22
+1. software
+    > google chrome
+    > visual studio
+        https://code.visualstudio.com/download
+2. github
+3. HTML ( Baisc HTML )
+
