@@ -1,0 +1,26 @@
+HTML -- Hyper Text Markup Language
+> Hyper Text -- special text
+> Markup 
+
+1. HTML Structure
+2. HTML Tags?
+    > Open and Close Tags
+        <h1>Content</h1>    
+    > self closing tag
+        <hr> -- horizontal rule
+
+3. Basic Tags
+    Heading tag -- ( h1 - h6 )
+    <h1>Welcome to Latx</h1> -- main heading ( once )
+    <h2>Welcome To latx</h2> -- sub heading 
+    <h3>Welcome to Latx</h3> -- 
+    <h4>Welcome to Latx</h4>
+    <h5>Welcome to Latx</h5>
+    <h6>Welcome to Latx</h6>  
+
+    paragraph tag 
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus nam animi, perspiciatis eligendi eaque placeat nostrum nulla sequi. Omnis doloremque qui illum optio natus accusantium aliquid commodi eaque? Voluptatibus dolore non perferendis nulla sed perspiciatis, omnis ex voluptates placeat eum! Delectus tempora quas accusantium ut vitae hic iusto porro rem.</p>
+
+3. Attributes
+
+
